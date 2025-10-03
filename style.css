@@ -181,29 +181,29 @@ main{
 }
 #leaf-1{
     position: absolute;
-    left: 28%;
-    top: 27.5%;
-    height: 5%;
+    left: 27.5%;
+    top: 27%;
+    height: 6%;
     z-index: 300;
 }
 #leaf-2{
      position: absolute;
-    height: 5%;
+    height: 6%;
     left: 45%;
-    top: 27%;
+    top: 26.5%;
     z-index: 300;
 }
 #leaf-3{
     position: absolute;
     top: 35%;
-    left: 54.5%;
-    height: 5%;
+    left: 54%;
+    height: 6%;
     z-index: 300;
 }
 #leaf-4{
     position: absolute;
-    height: 5%;
-    top: 35%;
+    height: 6%;
+    top: 34.5%;
     left: 70%;
     z-index: 300;
 }
